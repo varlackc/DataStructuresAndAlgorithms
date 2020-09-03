@@ -37,4 +37,6 @@ We can think of algorithms as instructions to give predictable outcomes based on
 * Linear Complexity O(n)
 * NLog Complexity O(NLog(N))
 * Quadratic Complexity O(N^2)
-* Cubic Complexity  
+* Cubic Complexity  O(N^3)
+* Exponential Complexity O(C^N)
+* Factorial Complexity O(N!)
