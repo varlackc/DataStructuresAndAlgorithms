@@ -37,6 +37,9 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - Bubble Sort
     - Insertion
     - Merge Sort
+    - Quicksort
+    - Timsort
+    - Heapsort
 
 ## Asymptotic Complexity (Big O Notation)
 
