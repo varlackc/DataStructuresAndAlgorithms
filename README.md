@@ -25,6 +25,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - AVL Trees
     - Red Black Trees
 * Tries
+* Hash Table
 
 ## List Of Algorithms
 
