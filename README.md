@@ -27,6 +27,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - B-Tree
     - Splay Tree
     - KD Tree
+    - Cartesian Tree
 * Tries
 * Hash Table
 
