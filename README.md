@@ -24,6 +24,8 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - Binary Search Trees
     - AVL Trees
     - Red Black Trees
+    - B-Tree
+    - Splay Tree
 * Tries
 * Hash Table
 
