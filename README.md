@@ -43,6 +43,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - Selection Sort
     - Tree Sort
     - Shell Sort
+    - Bucket Sort
 
 ## Asymptotic Complexity (Big O Notation)
 
