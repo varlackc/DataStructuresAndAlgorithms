@@ -42,6 +42,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
     - Heapsort
     - Selection Sort
     - Tree Sort
+    - Shell Sort
 
 ## Asymptotic Complexity (Big O Notation)
 
