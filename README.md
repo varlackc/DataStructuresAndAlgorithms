@@ -16,6 +16,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
 * Stacks
 * Linked Lists
     - Singly Linked Lists
+    - Doubly Linked Lists
 * Graphs
 * Trees
     - Binary Trees
