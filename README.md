@@ -12,6 +12,7 @@ We can think of algorithms as instructions to give predictable outcomes based on
 ## List of Data Structures
 
 * Arrays
+* Dinamic Arrays (Vectors)
 * Queues
 * Stacks
 * Linked Lists
