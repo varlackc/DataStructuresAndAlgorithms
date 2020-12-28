@@ -32,22 +32,21 @@ Una forma de ver los algoritmos son como instrucciones para producir resultados 
 * Trie (Tries)
 * Matriz asociativa o Tabla fragmentada (Hash Table)
 
-## List Of Algorithms
-
-* Sorting Algorithms
-    - Bubble Sort
-    - Insertion
-    - Merge Sort
-    - Quicksort
-    - Timsort
-    - Heapsort
-    - Selection Sort
-    - Tree Sort
-    - Shell Sort
-    - Bucket Sort
-    - Radix Sort
-    - Counting Sort
-    - Cubesort
+## Lista de Algoritmos
+* Algoritmos de Ordenamiento (Sorting Algorithms)
+    - Ordenamiento de Burbuja (Bubble Sort)
+    - Ordenamiento por Insercion (Insertion)
+    - Ordenamiento por Mezcla (Merge Sort)
+    - Ordenamiento Rapido (Quicksort)
+    - Ordenamiento de Tim (Timsort)
+    - Ordenamiento por Monticulos (Heapsort)
+    - Ordenamiento por Seleccion (Selection Sort)
+    - Ordenamiento con Arbol (Tree Sort)
+    - Ordenamiento de Shell (Shell Sort)
+    - Ordenamiento por casilleros (Bucket Sort)
+    - Ordenamiento de Radix (Radix Sort)
+    - Ordenamiento por cuentas (Counting Sort)
+    - Ordenamiento de Cubo (Cubesort)
 
 ## Asymptotic Complexity (Big O Notation)
 
