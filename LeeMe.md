@@ -3,6 +3,7 @@
 
 # Introduccion
 Estructura de datos y algoritmos son la base de la ingenieria de software.
+Las estructuras de datos y algoritmos pueden ser usadas como componentes para sistemas mas complejos. 
 
 ## Descripcion
 Una forma de ver las estructuras de datos es como una forma de organizar informacion para permitir su manejo de forma abstracta. 
